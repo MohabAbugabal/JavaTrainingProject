@@ -1,4 +1,6 @@
 helloWorldPackage/ReverseStrings.java
  helloWorldPackage.ReverseStrings
+helloWorldPackage/PatterStrings.java
+ helloWorldPackage.PatterStrings
 helloWorldPackage/helloWorldClass.java
  helloWorldPackage.helloWorldClass
